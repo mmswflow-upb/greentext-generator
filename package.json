@@ -1,0 +1,17 @@
+{
+  "name": "greentext-generator",
+  "version": "1.0.0",
+  "description": "A webserver that creates greentexts based on your input",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmswflow-upb",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.85.1"
+  }
+}
